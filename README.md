@@ -9,8 +9,8 @@
   - LED
   - SG90 servo motor
   - RFID/NFC 모듈 (RFID-RC522 module)
-  
-  ![종설프_아두이노회로](https://user-images.githubusercontent.com/71831926/168989756-ec7e4f6a-ed5e-4347-8156-d37dec9f1dc8.png)
+
+  ![종설프_아두이노회로](https://user-images.githubusercontent.com/71831926/169036423-84be90b9-4e50-4df8-ad3f-1e3ff1d0c8a7.png)
 ---
 * **아두이노 코드 플로우차트 (Arduino Code Flowchart)**
   

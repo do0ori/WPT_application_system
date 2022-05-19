@@ -16,6 +16,6 @@
   
   ![arduino_project_flowchart drawio](https://user-images.githubusercontent.com/71831926/168989776-d89758e9-213f-4cc5-999a-066c558a40bf.png)
 ---
-* **아두이노 프로젝트 실행 영상 (Arduino Project Performance Video)**
+* **아두이노 회로 및 코드 실행 영상 (Arduino Performance Video)**
 
   https://user-images.githubusercontent.com/71831926/169045322-b0dd8a1c-8498-443c-9d6a-e31530022a45.mp4
